@@ -19,7 +19,8 @@ plugins:
 
 lint:
   # enabled linters inherited from github.com/trunk-io/configs plugin
-  enabled: []
+  enabled:
+    - dotnet-format
 
   disabled:
     - pylint # pylint diagnostics are too strict

@@ -6,3 +6,6 @@ node_modules/
 
 # Typescript
 out/
+
+bin/
+obj/
